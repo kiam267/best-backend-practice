@@ -2,9 +2,11 @@
 
 need to tech 
 
-1. node - error 
+<!-- 1. node - error 
 2. class 
-3. module index why importent?
+3. module index why importent? -->
+
+1. unlinkSync -> fs 
 
 setup style : 
 0. make visiuly grap like any art .
@@ -14,3 +16,4 @@ setup style :
 3. app setup 
 4. error setup 
 5. module  + schema 
+6. file upload setup 
