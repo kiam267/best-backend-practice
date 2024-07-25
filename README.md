@@ -7,6 +7,7 @@ need to tech
 3. module index why importent? -->
 
 1. unlinkSync -> fs 
+2. multer.fileds 
 
 setup style : 
 0. make visiuly grap like any art .
